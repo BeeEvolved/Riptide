@@ -1,10 +1,14 @@
 ```
 Open Source is Intrinsic to Bitcoin
 ```
-# The bitaxeUltra
+# The bitaxeUltra 204 Riptide
+Riptide, an Ocean-themed Bitaxe.
+### Future Riptide Design Goals
+- LEDs around the edges to create a BitHalo effect, with the LEDs producing a blue swirl, riptide or waves effect.
+
 bitaxe is a fully open source hardware Bitcoin ASIC miner. Ultra is the 3rd major revision of the bitaxe that now includes the BM1366 ASIC from the S19XP
 
-![bitaxeUltra assembled](doc/bitaxe_204.jpg)
+![Riptide](https://github.com/BeeEvolved/Riptide/blob/master/doc/RiptideImage2.jpg)
 
 ## Goals
 - **Standalone**: can mine directly to your pool over WiFi. No External computer needed.
